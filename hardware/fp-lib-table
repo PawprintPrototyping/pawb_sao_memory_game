@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "pawb_sao")(type "KiCad")(uri "${KIPRJMOD}/pawb_sao.pretty")(options "")(descr ""))
+)
