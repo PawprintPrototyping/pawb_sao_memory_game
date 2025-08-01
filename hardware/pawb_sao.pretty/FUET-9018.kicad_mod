@@ -94,4 +94,15 @@
 		(uuid "3dc8e54a-a1e0-4b25-b1ef-187f5696ed61")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d/SMTB-0940-T-3V-R.STEP"
+		(offset
+			(xyz 0 0 1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
 )

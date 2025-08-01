@@ -217,4 +217,15 @@
 		(uuid "efcc648f-feda-4804-ad64-ef5a200fdbd1")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d/bh-25f-1.stp"
+		(offset
+			(xyz 0 -110 2.7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
 )

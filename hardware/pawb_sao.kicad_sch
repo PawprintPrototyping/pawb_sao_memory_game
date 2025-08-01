@@ -4005,7 +4005,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_EVQP0"
+		(property "Footprint" "pawb_sao:SW_SPST_EVQP0"
 			(at 208.28 113.03 0)
 			(effects
 				(font
@@ -4495,7 +4495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_EVQP0"
+		(property "Footprint" "pawb_sao:SW_SPST_EVQP0"
 			(at 196.85 118.11 0)
 			(effects
 				(font
@@ -5630,7 +5630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_EVQP0"
+		(property "Footprint" "pawb_sao:SW_SPST_EVQP0"
 			(at 219.71 115.57 0)
 			(effects
 				(font
@@ -6476,7 +6476,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_EVQP0"
+		(property "Footprint" "pawb_sao:SW_SPST_EVQP0"
 			(at 196.85 110.49 0)
 			(effects
 				(font
